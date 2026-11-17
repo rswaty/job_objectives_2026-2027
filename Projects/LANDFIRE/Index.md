@@ -15,11 +15,9 @@ TNC LANDFIRE team work. FY objectives carry success criteria; this note is the p
 - [[Objectives/FY2026-2027/04 - LANDFIRE Task 3 - Production Support and SME|04 Production / SME]]
 - [[Objectives/FY2026-2027/05 - LANDFIRE Task 4 - Data Analysis, Investigations, and Publications|05 Analysis / pubs]]
 
-## Related code / products (outside vault)
+## Related code / products
 
 - R demos → package: https://landfire-tnc.github.io/r_demos/
-- Ecological sections / FSC: `~/Documents/ecological_section_dash`
-- `~/Desktop/landfire_dev` — retiring; prefer specific repos above
 
 ## People
 

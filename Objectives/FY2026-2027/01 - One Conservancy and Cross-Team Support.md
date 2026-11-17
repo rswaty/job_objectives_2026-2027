@@ -24,7 +24,7 @@ Success means the assessments are complete to the satisfaction of [[People/Taylo
 
 #### McCall
 - [x] propose CDL project to run assessment of McCall area (ecoregion?) ✅ 2026-11-16
-  - Accomplishment: Launched a CDL pathway for the McCall landscape assessment
+  - Accomplishment: Proposed a CDL project for the McCall landscape assessment
 - [ ] complete assessment by self if not by CDL
 
 ### Participate as a subject matter expert on additional TNC teams

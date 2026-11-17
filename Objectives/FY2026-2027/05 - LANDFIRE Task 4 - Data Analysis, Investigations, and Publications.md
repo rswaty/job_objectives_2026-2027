@@ -15,10 +15,6 @@ Project hub: [[Projects/LANDFIRE/Index|LANDFIRE]].
 
 Collaborate with [[People/Kori Blankenship|Kori Blankenship]] on the historical fire severity manuscript and move the McKenny manuscripts through the review process.
 
-- [ ] Add next manuscript / review-process task
-
 ### Participate in LANDFIRE-powered federal agency analyses
 
 Contribute to data analyses supporting federal agency work.
-
-- [ ] Add next federal analysis task

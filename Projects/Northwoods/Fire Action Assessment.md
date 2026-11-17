@@ -7,14 +7,7 @@ tags:
 ---
 # Fire Action Assessment
 
-Assessment work tied to fire / fuels decision support. Capture methods, data sources, open questions, and draft findings here.
-
-**Code / analysis:** `~/Documents/northwoods_fna` (keep large outputs out of this vault).
-
-## Tasks
-
-- [ ] Confirm current FAA methods, data sources, and open questions with Northwoods partners
-- [ ] Draft findings outline suitable for partner review
+Assessment work tied to fire / fuels decision support. Capture methods, data sources, open questions, and draft findings here. Keep large analysis outputs out of this vault.
 
 ## Related
 
