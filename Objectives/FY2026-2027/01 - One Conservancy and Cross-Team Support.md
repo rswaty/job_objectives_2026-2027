@@ -32,3 +32,6 @@ Success means the assessments are complete to the satisfaction of [[People/Taylo
 Examples may include prescribed-fire footprint mapping for North America Region Science.
 
 Active project: [[Projects/map_rx_fires/Index|map_rx_fires]] (tasks live on the project note).
+
+- [ ] Participate in Payette NF Landscape Assessment call
+

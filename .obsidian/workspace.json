@@ -1,41 +1,70 @@
 {
   "main": {
-    "id": "8867008143ff0d72",
+    "id": "ebfe88b0d3f03d76",
     "type": "split",
     "children": [
       {
-        "id": "37b65227a152d3b4",
+        "id": "2e3a1584ee8199d6",
         "type": "tabs",
         "children": [
           {
-            "id": "3dc7c48f6af92f71",
+            "id": "838cbf9382e330a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README - Start Here.md",
+                "file": "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README - Start Here"
+              "title": "01 - One Conservancy and Cross-Team Support"
+            }
+          },
+          {
+            "id": "f395a25aa29c98eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - LANDFIRE Task 1 - Communicate about LANDFIRE"
+            }
+          },
+          {
+            "id": "92fce344ba276584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Conservation Data Lab/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "56a4242261a0965b",
+    "id": "fdb8b74c67571e42",
     "type": "split",
     "children": [
       {
-        "id": "ed57912dbdb5a120",
+        "id": "07c96a5e5f2d7989",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7670bcb8f3694e",
+            "id": "3da99b935de6d63f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +79,7 @@
             }
           },
           {
-            "id": "ce61f7f0181b65cd",
+            "id": "0eeedd654e8d4d4b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +96,7 @@
             }
           },
           {
-            "id": "4fab4adfca218bd3",
+            "id": "0b780a3ba64f3eb0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +112,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.4140625
+    "width": 300
   },
   "right": {
-    "id": "f3768cf09a79842b",
+    "id": "0c86eb613781db3f",
     "type": "split",
     "children": [
       {
-        "id": "1cdee9426e2dd45f",
+        "id": "41eedb26c65b045f",
         "type": "tabs",
         "children": [
           {
-            "id": "71ec360aea29b8cc",
+            "id": "1178cdf51ca14295",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README - Start Here.md",
+                "file": "Objectives/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +142,12 @@
             }
           },
           {
-            "id": "a9bc3469a2a39377",
+            "id": "18317e8238ed6e70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README - Start Here.md",
+                "file": "Objectives/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +156,7 @@
             }
           },
           {
-            "id": "d9af82caa6c48486",
+            "id": "2a3554b3af56ddd9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +171,7 @@
             }
           },
           {
-            "id": "6f85038128182ade",
+            "id": "7dee31c6596519cb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +185,12 @@
             }
           },
           {
-            "id": "f3dbf85075a89307",
+            "id": "a9cb83b745724a82",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README - Start Here.md",
+                "file": "Objectives/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +200,7 @@
             }
           },
           {
-            "id": "d4d5d84b30bc977f",
+            "id": "522083d67c674e7a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -185,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 735.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,43 +228,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dc7c48f6af92f71",
+  "active": "92fce344ba276584",
   "lastOpenFiles": [
-    "Weekly/2026-11-17.md",
     "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
-    "Projects/LANDFIRE/Index.md",
+    "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
     "Dashboard/Objectives Dashboard.md",
-    "Weekly/README.md",
-    "Archive/README.md",
-    "People/Drew YoungeDyke.md",
-    "People/Michael Dietzen.md",
-    "People/John Den Uyl.md",
+    "Dashboard/Home.md",
+    "Areas/One Conservancy.md",
     "People/Melissa Clark.md",
     "People/Mark Buckner.md",
-    "People/Lisa Kluesner.md",
-    "People/Taylor Ganz.md",
-    "People/Nancy French.md",
-    "People/Melanie Rudolf.md",
     "People/Kori Blankenship.md",
-    "Areas/One Conservancy.md",
-    "Projects/map_rx_fires/Index.md",
-    "Projects/Conservation Data Lab/Index.md",
-    "Projects/Northwoods/Meeting Tasks.md",
-    "Projects/Northwoods/Context Site.md",
-    "Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns.md",
-    "Projects/Northwoods/Fire Action Assessment.md",
-    "Projects/Northwoods/Index.md",
-    "Dashboard/Home.md",
-    "Archive/SwatyDraftObjectivesFY2026-2027-Workday.docx",
-    "Archive",
+    "People/John Den Uyl.md",
+    "People/Drew YoungeDyke.md",
+    "Objectives/01 - One Conservancy and Cross-Team Support.md",
+    "Weekly/README.md",
+    "Weekly/2026-11-17.md",
     "Weekly",
-    "Areas",
-    "People",
-    "Projects/map_rx_fires",
+    "Projects/Northwoods/Index.md",
+    "Projects/Northwoods/Context Site.md",
+    "Projects/Northwoods/Fire Action Assessment.md",
+    "Projects/Northwoods/Meeting Tasks.md",
+    "Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns.md",
+    "Projects/map_rx_fires/Index.md",
+    "Projects/LANDFIRE/Index.md",
+    "Projects/Conservation Data Lab/Index.md",
     "Projects/Northwoods",
+    "Projects/map_rx_fires",
     "Projects/LANDFIRE",
     "Projects/Conservation Data Lab",
     "Projects",
-    "Objectives/FY2026-2027/06 - Professional Development.md"
+    "People/Taylor Ganz.md",
+    "People/Nancy French.md",
+    "People/Michael Dietzen.md",
+    "People/Melanie Rudolf.md",
+    "People/Lisa Kluesner.md",
+    "People",
+    "Objectives/FY2026-2027",
+    "Dashboard",
+    "Areas"
   ]
 }
