@@ -14,6 +14,9 @@ Support for the Northwoods Strategy Team — assessments, partner work, and rela
 - [[Projects/Northwoods/Fire Action Assessment|Fire Action Assessment]]
 - [[Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns|Forest canopy, disturbance, and ownership]]
 - [[Projects/Northwoods/Context Site|Context Site]]
+- Landscape Lab
+	- [ ] add Che Nic to landscape lab
+	- [ ] Fix forest cover type
 
 ## Capture
 

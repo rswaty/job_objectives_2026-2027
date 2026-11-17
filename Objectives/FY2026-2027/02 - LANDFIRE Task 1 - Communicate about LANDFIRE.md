@@ -16,6 +16,7 @@ Explore opportunities with organizations such as the Land Trust Alliance and sta
 
 - [x] Reach out to Emily Clegg and Emily Leach about connections to LTA ✅ 2026-11-11
 - [x] Ask Emily Clegg about MI DNR contacts ✅ 2026-11-11
+- [ ] Email Emily's contacts📅 2026-11-23 cc'ing Megan
 
 ### Complete and deploy the Ecological Sections dashboard for the Forest Stewardship Council
 
@@ -35,8 +36,9 @@ Work through [[People/Lisa Kluesner|Lisa Kluesner]]. Success means GIS work and 
 
 Transition the code and processes at https://landfire-tnc.github.io/r_demos/ to an R package. Success means the package is completed and tested.
 
-- [ ] Reach out to [[People/Mark Buckner|Mark Buckner]]
+- [ ] Reach out to [[People/Mark Buckner|Mark Buckner]] 📅 2026-11-24 
 - [ ] In Cursor, work up a plan based on r_demos and known context
+- [ ] Put message saying that we are moving code and processes to R package on website
 
 ### Continue work with the Conservation Data Lab
 
@@ -52,6 +54,19 @@ Work with the team to develop tools in R, QGIS, and ArcGIS, along with supportin
 
 Collaborate with the communications lead on activities such as videos, materials, websites, and hosting or organizing Open Hours as decided by the team.
 
+#### Newsletters, LANDFIRE Listens
+
+- [ ] Get Hoosier story doc drafted for Megan (with RD and Melanie quotes).  Could use MQT story as a template.  2 pager with map and photo📅 2026-11-23 
+- [ ] Reach out to Darren Docter about presenting to the Technical Leadership Group (TLG) about presenting Northwoods work...Kee trees, FAA etc 📅 2026-11-24 
+- [ ] Ask Emily and/or Tracy about a comms piece about NOrthwoods work
+
+#### Assessments Dashboard
+
+- [ ] Update with Che-Nic and Monongahela
+- [ ] Make update process
+
 ### Manage Tallgrass Prairie and Oak Savanna app development
 
 Collaborate with Paul Charland. Success means the data-collection apps are developed, deployed, and being used.
+
+- [ ] Review Paul's story for Megan 📅 2026-11-18 

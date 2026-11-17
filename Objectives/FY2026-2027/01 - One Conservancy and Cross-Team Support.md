@@ -27,6 +27,11 @@ Success means the assessments are complete to the satisfaction of [[People/Taylo
   - Accomplishment: Proposed a CDL project for the McCall landscape assessment
 - [ ] complete assessment by self if not by CDL
 
+#### Payette and Boise National Forests
+- [x] Meet with IDBU, Michael Case, John RIlin of the Boise and Tim Uleishman of the Payette National Forests ✅ 2026-11-17
+- [ ] Watch for outline of work from Michael Case
+- [ ] Inform Jim about this meeting
+
 ### Participate as a subject matter expert on additional TNC teams
 
 Examples may include prescribed-fire footprint mapping for North America Region Science.
