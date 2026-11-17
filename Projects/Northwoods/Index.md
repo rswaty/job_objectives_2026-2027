@@ -9,8 +9,6 @@ tags:
 
 Support for the Northwoods Strategy Team — assessments, partner work, and related analysis. Ties to [[Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support|Objective 01]] and [[Areas/One Conservancy|One Conservancy]].
 
-Code for Fire Action Assessment lives outside the vault: `~/Documents/northwoods_fna`.
-
 ## Active projects
 
 - [[Projects/Northwoods/Fire Action Assessment|Fire Action Assessment]]

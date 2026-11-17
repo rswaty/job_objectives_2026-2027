@@ -8,8 +8,7 @@ tags:
 
 Prescribed-fire footprint mapping for North America Region Science / SME support.
 
-**Repo:** https://github.com/rswaty/map_rx_fires  
-**Local:** `~/Documents/map_rx_fires`
+**Repo:** https://github.com/rswaty/map_rx_fires
 
 ## Status
 

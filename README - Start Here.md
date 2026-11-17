@@ -32,20 +32,13 @@ Put tasks where the work lives (objective or project note). Nest **accomplishmen
 
 **You write the accomplishment** when you check the task — that is the quality bar for the Tuesday email.
 
-- **Task line** = what you did / the work item. Use the Tasks plugin date (`✅ YYYY-MM-DD`) on the task only — that drives the weekly date window.
-- **Accomplishment line** = high-level outcome for the team (what landed, for whom, why it matters). No dates on this line. Prefer one crisp sentence over process detail (“emailed X about Y”).
-- Skip the accomplishment bullet until there is a real outcome to report.
+- **Task line** = the work item. Use the Tasks plugin date (`✅ YYYY-MM-DD`) on the task only — that drives the weekly date window.
+- **Accomplishment line** = high-level outcome for the team. No dates on this line.
+- **Do not invent outcomes.** Asking or emailing is not the same as securing a lead, confirming next steps, or opening a pathway. Only claim what actually happened. If nothing stronger than the task is true yet, omit the accomplishment line.
 - Tag when useful: `#Northwoods`, `#FSC`, `#publication`, `#R-package`.
 
-A Cursor Automation drafts `Weekly/YYYY-MM-DD.md` each Tuesday at 8:00 from completed tasks and nested accomplishments. It should lift the accomplishment text (not restate the task). Completed work must be **committed and pushed** (Obsidian Git) before that run.
+A Cursor Automation drafts `Weekly/YYYY-MM-DD.md` each Tuesday at 8:00 from completed tasks and nested accomplishments. Prefer your accomplishment text when present; otherwise stay faithful to the task — never inflate. Completed work must be **committed and pushed** (Obsidian Git) before that run.
 
-## Outside this vault
+## Code and data
 
-Project code stays horizontal on disk, for example:
-
-- `~/Documents/northwoods_fna` — Fire Action Assessment code
-- `~/Documents/map_rx_fires` — prescribed-fire footprint mapping
-- `~/Documents/ecological_section_dash` — FSC ecological sections dashboard
-- `~/Desktop/landfire_dev` — retiring; do not treat as source of truth
-
-Link those paths or GitHub remotes from project notes; do not copy large data into the vault.
+Keep implementation repos and large data on disk or GitHub; link them from project notes. Do not copy large outputs into this vault.

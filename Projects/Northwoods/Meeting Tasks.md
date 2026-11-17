@@ -5,7 +5,7 @@ tags:
 ---
 # Northwoods Meeting Tasks
 
-Quick capture from meetings. Move durable work into project notes when it grows. List originally started Oct 30, 2026 (mined from northwoods_vault).
+Quick capture from meetings. Move durable work into project notes when it grows. List originally started Oct 30, 2026.
 
 ## Open
 
