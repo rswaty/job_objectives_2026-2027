@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "9b87c9751d3c20ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Northwoods/Meeting Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting Tasks"
+            }
           }
         ],
         "currentTab": 2
@@ -230,6 +244,9 @@
   },
   "active": "92fce344ba276584",
   "lastOpenFiles": [
+    "Projects/Northwoods/Meeting Tasks.md",
+    "People/John Den Uyl.md",
+    "Projects/Conservation Data Lab/Index.md",
     "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
     "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
     "Dashboard/Objectives Dashboard.md",
@@ -238,7 +255,6 @@
     "People/Melissa Clark.md",
     "People/Mark Buckner.md",
     "People/Kori Blankenship.md",
-    "People/John Den Uyl.md",
     "People/Drew YoungeDyke.md",
     "Objectives/01 - One Conservancy and Cross-Team Support.md",
     "Weekly/README.md",
@@ -247,11 +263,9 @@
     "Projects/Northwoods/Index.md",
     "Projects/Northwoods/Context Site.md",
     "Projects/Northwoods/Fire Action Assessment.md",
-    "Projects/Northwoods/Meeting Tasks.md",
     "Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns.md",
     "Projects/map_rx_fires/Index.md",
     "Projects/LANDFIRE/Index.md",
-    "Projects/Conservation Data Lab/Index.md",
     "Projects/Northwoods",
     "Projects/map_rx_fires",
     "Projects/LANDFIRE",
