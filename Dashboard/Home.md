@@ -25,6 +25,14 @@ tags:
 
 - [[Areas/One Conservancy|One Conservancy]]
 
+## People
+
+Mention with `[[People/Name|Name]]` in a task — open the link once to create the note (Templater fills the person template). No need to create People notes first.
+
+```dataview
+LIST FROM "People" SORT file.name ASC
+```
+
 ## Weekly notes
 
 ```dataview
