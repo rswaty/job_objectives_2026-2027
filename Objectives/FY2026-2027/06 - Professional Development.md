@@ -12,10 +12,10 @@ tags:
 
 Build practical skills for completing common GIS operations with Python, SQL, or both.
 
-- [ ] Add next task
+- [ ] Add next Python/SQL GIS practice task
 
 ### Explore LANDFIRE data in emerging GIS platforms
 
 Explore platforms such as RustGIS and GeoLibre.
 
-- [ ] Add next task
+- [ ] Add next platform exploration task

@@ -9,14 +9,16 @@ tags:
 ---
 # LANDFIRE Task 2 - Tool and Process Developments
 
+Project hub: [[Projects/LANDFIRE/Index|LANDFIRE]].
+
 ### Review APEX and other tools
 
 Review tools as developed and requested by the supervisor.
 
-- [ ] Add next task
+- [ ] Add next APEX / tools review task
 
 ### Contribute to a Biophysical Settings Content Management System
 
 Potential work includes database development and consolidation of landfirereview.org and BpS materials on Conservation Gateway.
 
-- [ ] Add next task
+- [ ] Add next BpS CMS task
