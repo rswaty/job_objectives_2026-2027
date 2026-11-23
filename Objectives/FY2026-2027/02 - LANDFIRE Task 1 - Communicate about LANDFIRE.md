@@ -24,7 +24,8 @@ Success means the dashboard is complete, a plan for additional FSC-US deliverabl
 
 - [x] Post 'final' and send to Carly. ✅ 2026-11-11
   - Accomplishment: Delivered the final FSC Ecological Sections dashboard to Carly
-- [ ] Work on outreach as directed by Megan
+- [x] Implement analytics and Feedback form 📅 2026-11-18 ✅ 2026-11-18
+- [ ] Test analytics then move to tnc github (may need to change analystics set up?)
 
 ### Continue contributing to USFS Planning Service Group work
 
@@ -36,7 +37,7 @@ Work through [[People/Lisa Kluesner|Lisa Kluesner]]. Success means GIS work and 
 
 Transition the code and processes at https://landfire-tnc.github.io/r_demos/ to an R package. Success means the package is completed and tested.
 
-- [ ] Reach out to [[People/Mark Buckner|Mark Buckner]] 📅 2026-11-24 
+- [x] Reach out to [[People/Mark Buckner|Mark Buckner]] 📅 2026-11-24 ✅ 2026-11-18
 - [ ] In Cursor, work up a plan based on r_demos and known context
 - [ ] Put message saying that we are moving code and processes to R package on website
 
@@ -56,9 +57,9 @@ Collaborate with the communications lead on activities such as videos, materials
 
 #### Newsletters, LANDFIRE Listens
 
-- [ ] Get Hoosier story doc drafted for Megan (with RD and Melanie quotes).  Could use MQT story as a template.  2 pager with map and photo📅 2026-11-23 
-- [ ] Reach out to Darren Docter about presenting to the Technical Leadership Group (TLG) about presenting Northwoods work...Kee trees, FAA etc 📅 2026-11-24 
-- [ ] Ask Emily and/or Tracy about a comms piece about NOrthwoods work
+- [x] Get Hoosier story doc drafted for Megan (with RD and Melanie quotes).  Could use MQT story as a template.  2 pager with map and photo 📅 2026-11-23 ✅ 2026-11-18
+- [x] Reach out to Darren Docter about presenting to the Technical Leadership Group (TLG) about presenting Northwoods work...Kee trees, FAA etc 📅 2026-11-24 ✅ 2026-11-18
+- [x] Ask Emily and/or Tracy about a comms piece about Northwoods work ✅ 2026-11-18
 
 #### Assessments Dashboard
 
@@ -69,4 +70,9 @@ Collaborate with the communications lead on activities such as videos, materials
 
 Collaborate with Paul Charland. Success means the data-collection apps are developed, deployed, and being used.
 
-- [ ] Review Paul's story for Megan 📅 2026-11-18 
+- [x] Review Paul's story for Megan 📅 2026-11-18 ✅ 2026-11-18
+
+## Tribal Engagement
+
+- [x] Send Two Hearted Reserve shapefile to Eric Clark ✅ 2026-11-18
+- [ ] 

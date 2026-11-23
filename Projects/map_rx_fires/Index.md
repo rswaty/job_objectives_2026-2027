@@ -17,7 +17,7 @@ Prescribed-fire footprint mapping for North America Region Science / SME support
 
 ## Tasks
 
-- [ ] Make review dashboard and share with Melanie, Sarah, Kori, Jim, etc.
+- [x] Make review dashboard and share with Melanie, Sarah, Kori, Jim, etc. ✅ 2026-11-18
 - [ ] Contact [[People/Nancy French|Nancy French]]
 
 ## Related

@@ -147,7 +147,8 @@
               "title": "Meeting Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -315,6 +316,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -325,15 +327,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "838cbf9382e330a5",
+  "active": "1130ea351199d4df",
   "lastOpenFiles": [
     "Dashboard/Objectives Dashboard.md",
+    "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
+    "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
     "Projects/Northwoods/Index.md",
     "Projects/Northwoods/Context Site.md",
-    "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
     "Objectives/FY2026-2027/04 - LANDFIRE Task 3 - Production Support and SME.md",
     "Objectives/FY2026-2027/03 - LANDFIRE Task 2 - Tool and Process Developments.md",
-    "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
     "Objectives/FY2026-2027/05 - LANDFIRE Task 4 - Data Analysis, Investigations, and Publications.md",
     "Projects/Conservation Data Lab/Index.md",
     "Templates/Person.md",
