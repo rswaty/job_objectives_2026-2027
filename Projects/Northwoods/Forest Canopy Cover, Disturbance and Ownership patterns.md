@@ -24,5 +24,5 @@ Working note for forest cover–ownership analysis supporting Northwoods / One C
 
 ## Related
 
-- [[Projects/Northwoods/Index|Northwoods]]
 - [[Projects/Northwoods/Meeting Tasks|Meeting Tasks]]
+- [[Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support|Objective 01]]

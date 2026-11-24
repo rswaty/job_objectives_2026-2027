@@ -10,6 +10,6 @@ Ongoing cross-team Conservancy support — not a single project. FY success crit
 
 ## Active project links
 
-- [[Projects/Northwoods/Index|Northwoods]]
-- [[Projects/map_rx_fires/Index|map_rx_fires]]
+- [[Projects/Northwoods/Fire Action Assessment|Fire Action Assessment]]
+- [[Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns|Forest canopy, disturbance, and ownership]]
 - Idaho BU landscape assessments (McCall) — tracked on Objective 01

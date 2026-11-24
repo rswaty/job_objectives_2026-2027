@@ -1,6 +1,6 @@
 # Start here
 
-This is the **work vault** — one place for job objectives, projects, people, and weekly team notes. Code and large data stay in their own project directories on disk; link to them from here.
+This is the **work vault** — one place for job objectives, projects, and weekly team notes. Code and large data stay in their own project directories on disk; link to them from here.
 
 1. In Obsidian: **Open folder as vault** → this folder.
 2. Enable community plugins: **Tasks**, **Dataview**, **Git**, and **Templater** (already listed in `.obsidian`). Reload plugins if Templater is new.
@@ -12,28 +12,12 @@ This is the **work vault** — one place for job objectives, projects, people, a
 |--------|-----|
 | `Dashboard/` | Home + rolling task views |
 | `Objectives/FY2026-2027/` | Workday objectives and success criteria |
-| `Projects/` | Active project notes (Northwoods, LANDFIRE, CDL, …) |
-| `People/` | Contacts and relationship context |
+| `Projects/` | Active project notes (Northwoods) |
 | `Areas/` | Ongoing roles that are not a single project |
 | `Weekly/` | Tuesday team-achievements notes (paste into email) |
 | `Archive/` | Source drafts and retired material |
 
 Keep nesting shallow. Prefer `[[wikilinks]]` over deep folders.
-
-## People (no need to create first)
-
-Mention someone in a task with a **People path** link:
-
-```markdown
-- [ ] Meet with [[People/Emily Clegg|Emily Clegg]] about MI DNR
-```
-
-You do **not** create the People note ahead of time. Open that link once → Obsidian creates `People/Emily Clegg.md` and Templater applies the person template (tag + heading).
-
-- Prefer `[[People/Name|Name]]` so the file lands in the right folder immediately.
-- If you use a bare `[[Name]]` link instead, **Create In Chosen Folder** will ask where to put it — pick `People`.
-
-Typing tip: start with `[[People/` then the name.
 
 ## Tasks and accomplishments
 

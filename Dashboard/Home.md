@@ -16,22 +16,13 @@ tags:
 
 ## Projects
 
-- [[Projects/Northwoods/Index|Northwoods]]
-- [[Projects/LANDFIRE/Index|LANDFIRE]]
-- [[Projects/Conservation Data Lab/Index|Conservation Data Lab]]
-- [[Projects/map_rx_fires/Index|map_rx_fires]]
+- [[Projects/Northwoods/Fire Action Assessment|Fire Action Assessment]]
+- [[Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns|Forest canopy, disturbance, and ownership]]
+- [[Projects/Northwoods/Meeting Tasks|Northwoods meeting tasks]]
 
 ## Areas
 
 - [[Areas/One Conservancy|One Conservancy]]
-
-## People
-
-Mention with `[[People/Name|Name]]` in a task — open the link once to create the note (Templater fills the person template). No need to create People notes first.
-
-```dataview
-LIST FROM "People" SORT file.name ASC
-```
 
 ## Weekly notes
 

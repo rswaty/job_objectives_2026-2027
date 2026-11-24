@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Northwoods/Index.md",
+                "file": "Projects/Northwoods/Fire Action Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Fire Action Assessment"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Northwoods/Context Site.md",
+                "file": "Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context Site"
+              "title": "Forest Canopy Cover, Disturbance and Ownership patterns"
             }
           },
           {
@@ -305,36 +305,21 @@
     "Weekly/2026-11-24.md",
     "Dashboard/Objectives Dashboard.md",
     "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
-    "Projects/Northwoods/Index.md",
-    "Projects/Northwoods/Context Site.md",
     "Projects/Northwoods/Fire Action Assessment.md",
-    "Projects/map_rx_fires/Index.md",
     "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
     "Objectives/FY2026-2027/04 - LANDFIRE Task 3 - Production Support and SME.md",
     "Objectives/FY2026-2027/05 - LANDFIRE Task 4 - Data Analysis, Investigations, and Publications.md",
     "Objectives/FY2026-2027/03 - LANDFIRE Task 2 - Tool and Process Developments.md",
     "Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns.md",
-    "Projects/Conservation Data Lab/Index.md",
-    "Templates/Person.md",
-    "Templates",
     "Projects/Northwoods/Meeting Tasks.md",
-    "People/John Den Uyl.md",
     "Dashboard/Home.md",
     "Areas/One Conservancy.md",
-    "People/Melissa Clark.md",
-    "People/Mark Buckner.md",
-    "People/Kori Blankenship.md",
-    "People/Drew YoungeDyke.md",
     "Objectives/01 - One Conservancy and Cross-Team Support.md",
     "Weekly/README.md",
     "Weekly/2026-11-17.md",
     "Weekly",
     "Projects/Northwoods",
-    "Projects/map_rx_fires",
-    "Projects/LANDFIRE",
-    "Projects/Conservation Data Lab",
     "Projects",
-    "People",
     "Objectives/FY2026-2027"
   ]
 }

@@ -8,8 +8,6 @@ tags:
 ---
 # LANDFIRE Task 1 - Communicate about LANDFIRE
 
-Project hub: [[Projects/LANDFIRE/Index|LANDFIRE]].
-
 ### Develop relationships with non-federal collaborators
 
 Explore opportunities with organizations such as the Land Trust Alliance and state DNRs. Success means a pathway for connection and outreach is developed and 1–3 demo presentations are delivered.
@@ -29,7 +27,7 @@ Success means the dashboard is complete, a plan for additional FSC-US deliverabl
 
 ### Continue contributing to USFS Planning Service Group work
 
-Work through [[People/Lisa Kluesner|Lisa Kluesner]]. Success means GIS work and data analysis are completed to Lisa's satisfaction and a LANDFIRE story is developed.
+Work through Lisa Kluesner. Success means GIS work and data analysis are completed to Lisa's satisfaction and a LANDFIRE story is developed.
 
 - [x] Email Lisa Kluesner-would GIS work for the assessment area still be useful? ✅ 2026-11-12
 - [ ] E-mailed Lisa Kluesner about joining team call
@@ -38,7 +36,7 @@ Work through [[People/Lisa Kluesner|Lisa Kluesner]]. Success means GIS work and 
 
 Transition the code and processes at https://landfire-tnc.github.io/r_demos/ to an R package. Success means the package is completed and tested.
 
-- [x] Reach out to [[People/Mark Buckner|Mark Buckner]] 📅 2026-11-24 ✅ 2026-11-18
+- [x] Reach out to Mark Buckner 📅 2026-11-24 ✅ 2026-11-18
 - [x] meet with Mark Buckner ✅ 2026-11-24
 - [ ] Put message saying that we are moving code and processes to R package on website
 - [ ] Wrote up document that assessed 1)what we would like that rlandfire does not do, 2) what would be stable to implement (few dependencies, stable) and 3) what is hard for people to do (e.g. not simple bar charts which are easy and people like to customize anyways)
@@ -47,8 +45,6 @@ Transition the code and processes at https://landfire-tnc.github.io/r_demos/ to 
 ### Continue work with the Conservation Data Lab
 
 Develop a sustainable futuring leadership and administration model. Success means mentors are engaged and working with members to manage projects.
-
-Hub: [[Projects/Conservation Data Lab/Index|Conservation Data Lab]]
 
 ### Develop LANDFIRE data-exploration tools
 

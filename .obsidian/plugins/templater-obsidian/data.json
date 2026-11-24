@@ -1,7 +1,7 @@
 {
   "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "",
   "templates_pairs": [["", ""]],
   "trigger_on_file_creation_mode": "folder",
   "only_trigger_for_matching_files": true,
@@ -9,12 +9,7 @@
   "jump_to_cursor_after_file_name": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "folder_templates": [
-    {
-      "folder": "People",
-      "template": "Templates/Person.md"
-    }
-  ],
+  "folder_templates": [],
   "file_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,

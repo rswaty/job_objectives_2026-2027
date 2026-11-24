@@ -13,14 +13,21 @@ Area overview: [[Areas/One Conservancy|One Conservancy]].
 
 Success means partners are happy with the forest cover-ownership analysis, Fire Action Assessment, and mentoring of staff and interns.
 
-Project hub: [[Projects/Northwoods/Index|Northwoods]]
-
 - Forest cover–ownership: [[Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns|canopy / ownership note]]
 - Fire Action Assessment: [[Projects/Northwoods/Fire Action Assessment|Fire Action Assessment]]
+- Meeting tasks: [[Projects/Northwoods/Meeting Tasks|Meeting Tasks]]
+
+#### Landscape Lab
+- [ ] add Che Nic to landscape lab
+- [ ] Fix forest cover type
+
+#### Tribal relationships
+- [x] Accept invitation to White Earth training ✅ 2026-11-24
+- [x] Meet with Eric and Robin Clark about modeling and Two Hearted management ✅ 2026-11-24
 
 ### Contribute to Idaho BU landscape assessments
 
-Success means the assessments are complete to the satisfaction of [[People/Taylor Ganz|Taylor Ganz]].
+Success means the assessments are complete to the satisfaction of Taylor Ganz.
 
 #### McCall
 - [x] propose CDL project to run assessment of McCall area (ecoregion?) ✅ 2026-11-16
@@ -36,8 +43,15 @@ Success means the assessments are complete to the satisfaction of [[People/Taylo
 
 Examples may include prescribed-fire footprint mapping for North America Region Science.
 
-Active project: [[Projects/map_rx_fires/Index|map_rx_fires]] (tasks live on the project note).
+Prescribed-fire footprint mapping repo: https://github.com/rswaty/map_rx_fires
 
+- As of 2026-11-11: testing with fires from Sarah Byer; reported acres not close yet.
+- 2026-11-13: Met with Melanie Rudolf — encouraging; wants a review / play dashboard.
+
+- [x] Make review dashboard and share with Melanie, Sarah, Kori, Jim, etc. ✅ 2026-11-18
+- [ ] Contact Nancy French
+- [ ] Met with Alvaro Galvan and shared my repo with him.  He shared his platform, https://platform.fuego.earth/burn-probability
+- [ ] Prepared for meeting on December 2 🛫 2026-12-01
 - [x] Participate in Payette NF Landscape Assessment call ✅ 2026-11-18
 
 ### Other

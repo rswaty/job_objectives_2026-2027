@@ -9,8 +9,6 @@ tags:
 ---
 # LANDFIRE Task 2 - Tool and Process Developments
 
-Project hub: [[Projects/LANDFIRE/Index|LANDFIRE]].
-
 ### Review APEX and other tools
 
 Review tools as developed and requested by the supervisor.
