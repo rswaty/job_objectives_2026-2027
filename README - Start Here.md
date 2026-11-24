@@ -52,7 +52,7 @@ Put tasks where the work lives (objective or project note). Nest **accomplishmen
 - **Do not invent outcomes.** Asking or emailing is not the same as securing a lead, confirming next steps, or opening a pathway. Only claim what actually happened. If nothing stronger than the task is true yet, omit the accomplishment line.
 - Tag when useful: `#Northwoods`, `#FSC`, `#publication`, `#R-package`.
 
-A Cursor Automation drafts `Weekly/YYYY-MM-DD.md` each Tuesday at 8:00 from completed tasks and nested accomplishments. Prefer your accomplishment text when present; otherwise stay faithful to the task — never inflate. Completed work must be **committed and pushed** (Obsidian Git) before that run.
+A GitHub Action drafts `Weekly/YYYY-MM-DD.md` each Tuesday morning from completed tasks and nested accomplishments, then emails that note to rswaty@tnc.org. Prefer your accomplishment text when present; otherwise stay faithful to the task — never inflate. Completed work must be **committed and pushed** (Obsidian Git) before that run.
 
 ## Code and data
 

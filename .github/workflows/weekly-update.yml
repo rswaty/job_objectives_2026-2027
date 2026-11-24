@@ -1,0 +1,42 @@
+name: Weekly update
+
+on:
+  schedule:
+    # GitHub schedules are UTC. 13:00 UTC Tuesday is 8:00am US Eastern Standard
+    # Time and 9:00am US Eastern Daylight Time. Runs can start a few minutes late.
+    - cron: "0 13 * * 2"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write weekly note
+        run: python3 scripts/weekly_update.py --write
+
+      - name: Commit weekly note
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Weekly/*.md
+          if git diff --staged --quiet; then
+            echo "No new weekly note."
+          else
+            git commit -m "Add weekly update for $(date -u +%F)."
+            git push
+          fi
+
+      - name: Email weekly update
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python3 scripts/weekly_update.py --send
