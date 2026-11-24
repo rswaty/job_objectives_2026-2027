@@ -16,7 +16,7 @@ Explore opportunities with organizations such as the Land Trust Alliance and sta
 
 - [x] Reach out to Emily Clegg and Emily Leach about connections to LTA ✅ 2026-11-11
 - [x] Ask Emily Clegg about MI DNR contacts ✅ 2026-11-11
-- [ ] Email Emily's contacts📅 2026-11-23 cc'ing Megan
+- [x] Email Emily's contacts📅 2026-11-23 cc'ing Megan ✅ 2026-11-24
 
 ### Complete and deploy the Ecological Sections dashboard for the Forest Stewardship Council
 
@@ -25,19 +25,21 @@ Success means the dashboard is complete, a plan for additional FSC-US deliverabl
 - [x] Post 'final' and send to Carly. ✅ 2026-11-11
   - Accomplishment: Delivered the final FSC Ecological Sections dashboard to Carly
 - [x] Implement analytics and Feedback form 📅 2026-11-18 ✅ 2026-11-18
-- [ ] Test analytics then move to tnc github (may need to change analystics set up?)
+- [x] Test analytics then move to tnc github (may need to change analystics set up?) ✅ 2026-11-24
 
 ### Continue contributing to USFS Planning Service Group work
 
 Work through [[People/Lisa Kluesner|Lisa Kluesner]]. Success means GIS work and data analysis are completed to Lisa's satisfaction and a LANDFIRE story is developed.
 
 - [x] Email Lisa Kluesner-would GIS work for the assessment area still be useful? ✅ 2026-11-12
+- [ ] E-mail Lisa Kluesner about joining team call
 
 ### Transition the R demos into an R package
 
 Transition the code and processes at https://landfire-tnc.github.io/r_demos/ to an R package. Success means the package is completed and tested.
 
 - [x] Reach out to [[People/Mark Buckner|Mark Buckner]] 📅 2026-11-24 ✅ 2026-11-18
+- [x] meet with Mark Buckner ✅ 2026-11-24
 - [ ] In Cursor, work up a plan based on r_demos and known context
 - [ ] Put message saying that we are moving code and processes to R package on website
 

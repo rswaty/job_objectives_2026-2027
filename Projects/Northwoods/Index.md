@@ -17,6 +17,9 @@ Support for the Northwoods Strategy Team — assessments, partner work, and rela
 - Landscape Lab
 	- [ ] add Che Nic to landscape lab
 	- [ ] Fix forest cover type
+- Tribal Relationships
+	- [x] Accept invitation to White Earth training ✅ 2026-11-24
+	- [x] Meet with Eric and Robin Clark about modeling and Two Hearted management ✅ 2026-11-24
 
 ## Capture
 
