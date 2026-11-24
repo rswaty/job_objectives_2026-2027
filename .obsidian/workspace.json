@@ -298,8 +298,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d2cca6f0668db9f",
+  "active": "522083d67c674e7a",
   "lastOpenFiles": [
+    "scripts/weekly_update.py",
+    "scripts",
+    "Weekly/2026-11-24.md",
     "Dashboard/Objectives Dashboard.md",
     "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
     "Projects/Northwoods/Index.md",
@@ -326,15 +329,12 @@
     "Weekly/README.md",
     "Weekly/2026-11-17.md",
     "Weekly",
-    "Projects/LANDFIRE/Index.md",
     "Projects/Northwoods",
     "Projects/map_rx_fires",
     "Projects/LANDFIRE",
     "Projects/Conservation Data Lab",
     "Projects",
-    "People/Taylor Ganz.md",
     "People",
-    "Objectives/FY2026-2027",
-    "Dashboard"
+    "Objectives/FY2026-2027"
   ]
 }
