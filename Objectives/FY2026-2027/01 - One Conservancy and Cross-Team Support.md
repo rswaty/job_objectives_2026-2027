@@ -50,10 +50,11 @@ Prescribed-fire footprint mapping repo: https://github.com/rswaty/map_rx_fires
 
 - [x] Make review dashboard and share with Melanie, Sarah, Kori, Jim, etc. ✅ 2026-11-18
 - [ ] Contact Nancy French
-- [ ] Met with Alvaro Galvan and shared my repo with him.  He shared his platform, https://platform.fuego.earth/burn-probability
+- [x] Met with Alvaro Galvan and shared my repo with him.  He shared his platform, https://platform.fuego.earth/burn-probability ✅ 2026-11-24
 - [ ] Prepared for meeting on December 2 🛫 2026-12-01
 - [x] Participate in Payette NF Landscape Assessment call ✅ 2026-11-18
 
 ### Other
-- [ ] Introduced Tim Boucher to Alvaro and shared his app
+- [x] Introduced Tim Boucher to Alvaro and shared his app ✅ 2026-11-24
+- [x] Made and shared wooded dune and swale data to INBU scientists and GIS team.  https://rswaty.github.io/wooded_dune_swale/outputs/wooded_dune_swale.html ✅ 2026-11-24
 

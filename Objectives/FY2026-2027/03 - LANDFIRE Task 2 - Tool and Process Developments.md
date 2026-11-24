@@ -25,6 +25,6 @@ Potential work includes database development and consolidation of landfirereview
 
 #### Database
 - [x] resolve AK issues noted by Kori, Sarah and Jim ✅ 2026-11-24
-- [ ] Completed a fair amount of BpS database and data frame QAQC
+- [x] Completed a fair amount of BpS database and data frame QAQC ✅ 2026-11-24
 
 

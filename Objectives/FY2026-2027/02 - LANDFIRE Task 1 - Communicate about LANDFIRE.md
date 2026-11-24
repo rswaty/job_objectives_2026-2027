@@ -30,7 +30,7 @@ Success means the dashboard is complete, a plan for additional FSC-US deliverabl
 Work through Lisa Kluesner. Success means GIS work and data analysis are completed to Lisa's satisfaction and a LANDFIRE story is developed.
 
 - [x] Email Lisa Kluesner-would GIS work for the assessment area still be useful? ✅ 2026-11-12
-- [ ] E-mailed Lisa Kluesner about joining team call
+- [x] E-mailed Lisa Kluesner about joining team call ✅ 2026-11-24
 
 ### Transition the R demos into an R package
 
