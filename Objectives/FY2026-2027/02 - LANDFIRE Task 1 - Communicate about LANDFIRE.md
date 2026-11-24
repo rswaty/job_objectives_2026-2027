@@ -32,7 +32,7 @@ Success means the dashboard is complete, a plan for additional FSC-US deliverabl
 Work through [[People/Lisa Kluesner|Lisa Kluesner]]. Success means GIS work and data analysis are completed to Lisa's satisfaction and a LANDFIRE story is developed.
 
 - [x] Email Lisa Kluesner-would GIS work for the assessment area still be useful? ✅ 2026-11-12
-- [ ] E-mail Lisa Kluesner about joining team call
+- [ ] E-mailed Lisa Kluesner about joining team call
 
 ### Transition the R demos into an R package
 
@@ -40,8 +40,9 @@ Transition the code and processes at https://landfire-tnc.github.io/r_demos/ to 
 
 - [x] Reach out to [[People/Mark Buckner|Mark Buckner]] 📅 2026-11-24 ✅ 2026-11-18
 - [x] meet with Mark Buckner ✅ 2026-11-24
-- [ ] In Cursor, work up a plan based on r_demos and known context
 - [ ] Put message saying that we are moving code and processes to R package on website
+- [ ] Wrote up document that assessed 1)what we would like that rlandfire does not do, 2) what would be stable to implement (few dependencies, stable) and 3) what is hard for people to do (e.g. not simple bar charts which are easy and people like to customize anyways)
+- [ ] Updated Joe and Jim on conversation with Mark Buckner
 
 ### Continue work with the Conservation Data Lab
 
@@ -52,6 +53,8 @@ Hub: [[Projects/Conservation Data Lab/Index|Conservation Data Lab]]
 ### Develop LANDFIRE data-exploration tools
 
 Work with the team to develop tools in R, QGIS, and ArcGIS, along with supporting documentation.
+
+- [ ] Wrote plan for QGIS plugin development and testing
 
 ### Support the team communications strategy
 

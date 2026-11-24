@@ -19,6 +19,8 @@ Prescribed-fire footprint mapping for North America Region Science / SME support
 
 - [x] Make review dashboard and share with Melanie, Sarah, Kori, Jim, etc. ✅ 2026-11-18
 - [ ] Contact [[People/Nancy French|Nancy French]]
+- [ ] Met with Alvaro Galvan and shared my repo with him.  He shared his platform, https://platform.fuego.earth/burn-probability
+- [ ] Prepared for meeting on December 2 🛫 2026-12-01 
 
 ## Related
 

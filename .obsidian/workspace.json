@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "838cbf9382e330a5",
+            "id": "2d2cca6f0668db9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Northwoods/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "492693731f84b35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Objectives Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objectives Dashboard"
+            }
+          },
+          {
+            "id": "f595b2463096232a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +50,17 @@
             }
           },
           {
-            "id": "2d2cca6f0668db9f",
+            "id": "5016199eb35c95a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Northwoods/Index.md",
+                "file": "Projects/Northwoods/Context Site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Context Site"
             }
           },
           {
@@ -90,23 +118,8 @@
               "icon": "lucide-file",
               "title": "05 - LANDFIRE Task 4 - Data Analysis, Investigations, and Publications"
             }
-          },
-          {
-            "id": "492693731f84b35b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard/Objectives Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objectives Dashboard"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,7 +283,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 662.5
+    "width": 671.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,17 +298,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "756d1a718873fbfb",
+  "active": "2d2cca6f0668db9f",
   "lastOpenFiles": [
-    "Objectives/FY2026-2027/04 - LANDFIRE Task 3 - Production Support and SME.md",
-    "Objectives/FY2026-2027/03 - LANDFIRE Task 2 - Tool and Process Developments.md",
-    "Projects/Northwoods/Index.md",
-    "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
-    "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
-    "Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns.md",
-    "Projects/Northwoods/Context Site.md",
     "Dashboard/Objectives Dashboard.md",
+    "Objectives/FY2026-2027/01 - One Conservancy and Cross-Team Support.md",
+    "Projects/Northwoods/Index.md",
+    "Projects/Northwoods/Context Site.md",
+    "Projects/Northwoods/Fire Action Assessment.md",
+    "Projects/map_rx_fires/Index.md",
+    "Objectives/FY2026-2027/02 - LANDFIRE Task 1 - Communicate about LANDFIRE.md",
+    "Objectives/FY2026-2027/04 - LANDFIRE Task 3 - Production Support and SME.md",
     "Objectives/FY2026-2027/05 - LANDFIRE Task 4 - Data Analysis, Investigations, and Publications.md",
+    "Objectives/FY2026-2027/03 - LANDFIRE Task 2 - Tool and Process Developments.md",
+    "Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns.md",
     "Projects/Conservation Data Lab/Index.md",
     "Templates/Person.md",
     "Templates",
@@ -311,8 +326,6 @@
     "Weekly/README.md",
     "Weekly/2026-11-17.md",
     "Weekly",
-    "Projects/Northwoods/Fire Action Assessment.md",
-    "Projects/map_rx_fires/Index.md",
     "Projects/LANDFIRE/Index.md",
     "Projects/Northwoods",
     "Projects/map_rx_fires",

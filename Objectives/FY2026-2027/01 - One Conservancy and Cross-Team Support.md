@@ -40,3 +40,6 @@ Active project: [[Projects/map_rx_fires/Index|map_rx_fires]] (tasks live on the 
 
 - [x] Participate in Payette NF Landscape Assessment call ✅ 2026-11-18
 
+### Other
+- [ ] Introduced Tim Boucher to Alvaro and shared his app
+

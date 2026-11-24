@@ -12,6 +12,9 @@ Support for the Northwoods Strategy Team — assessments, partner work, and rela
 ## Active projects
 
 - [[Projects/Northwoods/Fire Action Assessment|Fire Action Assessment]]
+	- [ ] Prepared to present to Tracy 📅 2026-12-01 ⏳
+	- [ ] Prepared simple SyncroSim modeling idea for work with Tribes and that folds in hexes etc.
+	- [ ] Updated Jim and Kim on status of grant proposal and what Tracy wants
 - [[Projects/Northwoods/Forest Canopy Cover, Disturbance and Ownership patterns|Forest canopy, disturbance, and ownership]]
 - [[Projects/Northwoods/Context Site|Context Site]]
 - Landscape Lab
