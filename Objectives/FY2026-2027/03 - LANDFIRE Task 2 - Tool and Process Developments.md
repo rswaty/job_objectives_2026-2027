@@ -20,12 +20,13 @@ Review tools as developed and requested by the supervisor.
 Potential work includes database development and consolidation of landfirereview.org and BpS materials on Conservation Gateway.
 
 #### Conservation Gateway
-- [ ] explore making short descriptions for BpS posting on CG
+- [x] explore making short descriptions for BpS posting on CG ✅ 2026-11-24
 
 #### BpS Science
 - [ ] revive Swaty et al., 2027 on historical conditions
 
 #### Database
-- [ ] resolve AK issues noted by Kori, Sarah and Jim
+- [x] resolve AK issues noted by Kori, Sarah and Jim ✅ 2026-11-24
+- [ ] Completed a fair amount of BpS database and data frame QAQC
 
 
